@@ -1,0 +1,19 @@
+{
+    "name": "CasinoCoinTest",
+    "symbol": "CSCTEST",
+    "image": "https://raw.githubusercontent.com/casinocoin/assets/main/csc_symbol_green.png",
+    "attributes": [
+      [
+        "description",
+        "CasinoCoin Test Token"
+      ],
+      [
+        "autor",
+        "Eminence"
+      ],
+      [
+        "company",
+        "Eminence"
+      ]
+    ]
+  }
